@@ -1,6 +1,6 @@
 
 ============================
-HHow to Use 4-print_square.py
+How to Use 4-print_square.py
 ============================
 
 This module defines a square-printing function ``print_square(size)``.
